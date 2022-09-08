@@ -2,3 +2,6 @@ spesification
 development
 operation
 maintainence
+customer input
+system reinforcement
+r
