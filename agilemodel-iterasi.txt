@@ -1,0 +1,4 @@
+spesification
+development
+operation
+maintainence
